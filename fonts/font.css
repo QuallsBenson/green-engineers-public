@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'gothambook';
+    src: url('gothambook.eot');
+    src: url('gothambook.eot') format('embedded-opentype'),
+         url('gothambook.woff2') format('woff2'),
+         url('gothambook.woff') format('woff'),
+         url('gothambook.ttf') format('truetype'),
+         url('gothambook.svg#gothambook') format('svg');
+}
+
+@font-face {
+    font-family: 'gothambold';
+    src: url('gothambold.eot');
+    src: url('gothambold.eot') format('embedded-opentype'),
+         url('gothambold.woff2') format('woff2'),
+         url('gothambold.woff') format('woff'),
+         url('gothambold.ttf') format('truetype'),
+         url('gothambold.svg#gothambold') format('svg');
+}

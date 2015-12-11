@@ -1,0 +1,307 @@
+@media only screen and (max-width: 1600px) {
+.del h2 {font-size: 42px; line-height:45px;}
+.del h6 {font-size: 35px; line-height:40px;}
+
+.tweet { padding:7% 50px 0 70px;}
+}
+
+@media only screen and (max-width: 1300px) {
+.del-details { max-height:0%;}
+.del h2 {font-size: 34px; line-height:40px;}
+.del h6 {font-size: 30px; line-height:35px;}
+
+.tweet { padding:5% 40px 0 50px;}
+.tweet img { margin-bottom:25px;}
+.tweet strong { padding-bottom:15px;}
+
+/* about us */
+.top-row { margin:40px 0;}
+.top-row p {padding: 70px 0 40px 60px;}
+.top-row img { margin-right:60px;}
+
+
+.link-section ul { margin:50px 0 40px !important;}
+.link-section h5 { font-size:17px;}
+
+.del-sec { padding:25px 30px 70px 14px;}
+.del-sec p {padding-left: 0;padding-right: 0;}
+
+.heading { padding:42px 0;}
+.heading h3 { font-size:36px; line-height:40px;}
+.bottom-sec { padding-bottom:40px;}
+.bottom-sec .r-col {padding: 15px 15px 20px;}
+.bottom-sec .r-col strong {font-size: 36px; line-height:42px; padding: 15px 40px 10px;}
+
+/* buildings */
+.box-sec .box strong { font-size:38px; line-height:45px;}
+.box-sec .box .col img { width:90px;}
+.box-sec .box img { width:170px;}
+
+/* contact us */
+.contact-sec h3 { font-size:60px;line-height: 75px;padding-bottom: 40px;}
+
+/* experience */
+.details h4 { padding-bottom:20px;}
+.details ul { margin-bottom:30px;}
+.details ul li{ margin-bottom:15px;}
+
+/* services */
+.resp-vtabs .resp-tabs-list li { font-size:22px;padding: 30px 60px !important;}
+.resp-tab-content ul li { font-size:22px; line-height:24px;}
+
+/* team */
+.team-list .pic { width:200px;}
+.team-list li { margin-bottom:45px !important;}
+
+}
+@media only screen and (max-width: 1050px) {
+body { font-size:17px;}
+
+.tweet {padding: 4% 40px 0 50px;} 
+.tweet img { margin-bottom:20px; width:65px;}
+.tweet strong { padding-bottom:10px;}
+.tweet small { font-size:14px; line-height:20px;}
+
+.wrapper { padding:0 15px; width:100%;}
+
+/* about us */
+.top-row { margin:30px 0;}
+.top-row p {padding: 50px 0 30px 50px; width:68%;}
+.top-row img { margin-right:50px;}
+
+.link-section ul { margin:40px 0 30px !important;}
+.link-section ul li { width:23%; margin:0 2% 2% 0; }
+
+.del-sec { padding:15px 15px 50px 10px;}
+.del-sec p {padding-left: 0;padding-right: 0;}
+
+.note { font-size:18px;padding: 16px 0 20px;}
+
+
+.heading { padding:30px 0;}
+.heading h3 { font-size:26px; line-height:30px;}
+.bottom-sec { padding-bottom:30px;}
+.bottom-sec .r-col {padding: 10px 10px 15px;}
+.bottom-sec .r-col strong {font-size: 26px; line-height:35px; padding: 15px 0px 5px;}
+
+/* buildings */
+.box-sec .box { height:200px;}
+.box-sec .box strong { font-size:30px; line-height:40px;}
+.box-sec .box .col img { width:75px;}
+.box-sec .box img { width:150px;}
+
+/* contact us */
+.contact-sec h3 { font-size:48px;line-height: 60px;padding-bottom: 32px;}
+
+
+/* experience */
+.details h4 { padding-bottom:15px;}
+.details ul { margin-bottom:25px;}
+.details ul li{ margin-bottom:12px;}
+ 
+/* services */
+.resp-vtabs .resp-tabs-list li { font-size:18px;padding: 20px 30px !important;}
+.resp-tab-content ul li { font-size:18px; line-height:22px;}
+ 
+ /* team */
+.team-list .team-del { width:75%;  padding-left: 40px;}
+.team-list .pic { width:175px;}
+.team-list h5 { margin-bottom:10px;}
+.team-list li { margin-bottom:35px !important;}
+
+
+}
+
+
+
+@media only screen and (max-width: 990px) {
+body { font-size:16px;}
+
+.del-details { max-height:20%;}
+.del h2 {font-size: 30px; line-height:40px;}
+.del h6 {font-size: 26px; line-height:35px;}
+
+
+#logo img {width: 200px;}
+
+
+.banner-sec .left-sec { width:52%;}
+.banner-sec h3 { font-size:30px;}
+
+.tweet {padding: 3% 30px 0 30px; width:46.4%;} 
+.tweet img {margin-bottom:10px; width:50px;}
+.tweet strong { padding-bottom:5px;}
+
+/* about us */
+.top-row p {padding: 40px 0 25px 40px; width:70%;}
+.top-row img { margin-right:30px; width:175px;}
+
+
+.del-sec { padding:0px 15px 35px 0px;}
+
+.note { font-size:16px;padding: 12px 0 16px;}
+.details p { padding-bottom:15px;}
+
+
+/* contact us */
+.contact-sec h3 { font-size:40px;}
+address { padding:60px 0;}
+
+/* experience */
+.details h4 { padding-bottom:12px;}
+.details ul { margin-bottom:20px;}
+.details ul li{ margin-bottom:10px;}
+
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+body { font-size:15px;}
+
+header {padding: 15px;}
+nav { width:100%;}
+nav ul li {margin-top: 17px;font-size: 13px; line-height: 10px;}
+
+.del-details { max-height:40%;}
+.del h2 {font-size: 26px; line-height:35px;}
+.del h6 {font-size: 22px; line-height:30px;}
+
+#logo img {width: 150px;}
+
+.home-header.fixed-header #logo img {height: auto; width:150px;}
+
+
+.banner-sec .left-sec {width: 100%;}
+.banner-sec h3 { font-size:25px; max-height:40%;line-height: 22px;}
+
+
+.tweet {margin-top: 1.5%;padding: 5% 6%;position: static;width: 100%;}
+
+/* about us */
+.top-row { margin:25px 0;}
+
+.top-row p {border-left: medium none;border-top: 2px solid #707070; padding: 20px 0 25px;width: 100%;}
+.top-row img {display: block; margin: 0 auto 25px;}
+
+.link-section ul { margin:30px 0 25px !important;}
+.link-section ul li {width: 31%;}
+
+.note { font-size:15px;padding: 8px 0 12px;}
+
+.bottom-sec { padding-bottom:25px;} 
+.heading { padding:20px 0;}
+.heading h3 { font-size:23px; line-height:30px;}
+.bottom-sec .r-col {padding: 10px 10px 15px;}
+.bottom-sec .r-col strong {font-size: 23px; line-height:28px; padding: 15px 0px 5px;}
+
+/* buildings */
+.box-sec .box { height:150px;}
+.box-sec .box strong { font-size:23px;line-height: 35px;}
+.box-sec .box .col img { width:60px;}
+.box-sec .box img { width:100px;}
+
+
+/* contact us */
+.contact-sec h3 { font-size:32px;line-height: 50px;padding-bottom: 28px;}
+address { padding:50px 0;}
+
+/* experience */
+.details h4 { padding-bottom:10px;}
+.details ul { margin-bottom:15px;}
+.details ul li{ margin-bottom:8px;}
+
+
+/* services */
+.resp-vtabs .resp-tabs-list li { font-size:16px;padding: 20px 50px !important;}
+.resp-tab-content ul li { font-size:14px; line-height:22px;}
+.resp-vtabs .resp-tab-content {background: none repeat scroll 0 0 #fff;border: 1px solid none;}
+h2.resp-tab-active {background: none repeat scroll 0 0 #606060 !important;color: #c1e4bf;}
+
+h2.resp-accordion { font-size:15px;}
+.resp-tab-content { padding: 30px 15px 20px;}
+h2.resp-tab-active span.resp-arrow {border-color: -moz-use-text-color transparent #c1e4bf;}
+
+ /* team */
+.team-list .team-del { padding-left: 30px;}
+.team-list .pic { width:125px; vertical-align:top;}
+.team-list h5 { margin-bottom:7px;}
+.team-list li { margin-bottom:25px !important;}
+
+
+}
+@media only screen and (max-width: 639px) {
+body { font-size:14px;}
+
+.del-details { max-height:30%;}
+.del h2 {font-size: 22px; line-height:35px;}
+.del h6 {font-size: 19px; line-height:30px;}
+
+
+.banner-sec h3 { font-size:23px; max-height:40%;}
+
+/* about us */
+.details p { line-height:22px;}
+
+.top-row { margin:25px 0 0;}
+
+.link-section ul li {width: 47%;}
+
+/* experience */
+.details ul li {margin-bottom: 5px;}
+
+/*team */
+.team-list .pic { margin:0 auto 20px;}
+.team-list .team-del { width:100%; padding-left:0;}
+.team-list p { font-size:13px;}
+}
+
+@media only screen and (max-width: 479px) {
+body { font-size:13px;}
+.del-details { max-height:20%;}
+.del h2 {font-size: 20px; line-height:28px;}
+.del h6 {font-size: 17px; line-height:26px;}
+
+.banner-sec h3 { font-size:20px; max-height:40%;}
+
+.link-section ul li {width: 100%; margin-right:0;}
+
+
+.bottom-sec { padding-bottom:20px;}
+.heading h3 { font-size:20px; line-height:27px;}
+.bottom-sec .r-col {padding: 10px 10px 15px;}
+.bottom-sec .r-col strong {font-size: 19px; line-height:22px; padding: 10px 0px 5px;}
+
+
+.box-sec .box {height: 125px;}
+.box-sec .box .col img { width:40px;}
+.box-sec .box img { width:60px;}
+
+
+/* contact us */
+.contact-sec h3 { font-size:28px;line-height: 40px;padding-bottom: 20px;}
+.contact-sec form { width:100%; padding:0 15px;}
+address { padding:40px 0;}
+
+}
+
+
+
+
+
+/* Wide Mobile Layout: 480px.*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 767px) {
+	
+}
