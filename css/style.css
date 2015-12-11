@@ -195,7 +195,8 @@ address strong{ font-weight:normal;font-family: 'Roboto', sans-serif; font-weigh
 
 }
 
-.del-details::after{
+.del-details::after,
+.banner-sec h3::after{
 	display: none;
 }
 
