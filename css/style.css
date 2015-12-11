@@ -195,8 +195,9 @@ address strong{ font-weight:normal;font-family: 'Roboto', sans-serif; font-weigh
 
 }
 
-
-
+.del-details::after{
+	display: none;
+}
 
 
 
